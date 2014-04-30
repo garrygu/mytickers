@@ -1,4 +1,4 @@
 mytickers
 =========
 
-Ticker and company information
+An AngularJS-based sample app to show ticker and company information
